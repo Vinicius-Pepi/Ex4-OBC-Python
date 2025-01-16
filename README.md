@@ -1,4 +1,4 @@
-Contagem Regressiva + Tabuada em Python
+# Contagem Regressiva + Tabuada em Python
 
 Este repositório contém dois projetos simples desenvolvidos em Python que têm como objetivo praticar a manipulação de loops, entrada de dados e integração com diferentes sistemas operacionais.
 
